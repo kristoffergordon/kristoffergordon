@@ -16,11 +16,6 @@ Hej, I'm kristoffer!
 - 🛠️ Learning in public: I self-host [gordor.dk](https://gordor.dk) on a small EU VPS, from DNS to TLS to deploy
 - 🔒 Privacy first, EU hosting where I can
 
-#### Things worth a look
-
-- [`dotfiles`](https://github.com/kristoffergordon/dotfiles): my shell, editor and tool config, set up with one script on a fresh Mac
-- [`harness`](https://github.com/kristoffergordon/harness): my Claude Code setup (instructions, skills, safety hooks)
-
 #### Getting in touch
 
 - 🌐 [gordor.dk](https://gordor.dk)
