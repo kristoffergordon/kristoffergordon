@@ -1,9 +1,3 @@
-```console
-~ @ gordor
-❯ echo "Hej, I'm $(whoami)!"
-Hej, I'm kristoffer!
-```
-
 ### Kristoffer Gordon
 
 - 🧑‍💻 Principal AI Engineer at [The Tech Collective](https://thetechcollective.eu) in Copenhagen 🇩🇰
