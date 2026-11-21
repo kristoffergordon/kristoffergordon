@@ -11,11 +11,6 @@ I'm Kristoffer, and I'm currently working as a Principal AI Engineer at [The Tec
 - Pragmatic. Simpler is better. What does success look like?
 - Privacy and sovereignty first. Local and EU hosting where I can
 
-#### Getting in touch
-
-- [gordor.dk](https://gordor.dk)
-- [LinkedIn](https://www.linkedin.com/in/kgc/)
-
 #### Fun facts
 
 - ⛵ I love cooking and I love sailing. I've learned the hard way that they combine poorly.
