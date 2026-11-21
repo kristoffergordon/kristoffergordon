@@ -1,23 +1,20 @@
-### Kristoffer Gordon
-
-Hi there! 
+#### Hi there! 
 
 I'm Kristoffer, and I'm currently working as a Principal AI Engineer at [The Tech Collective](https://thetechcollective.eu) in Copenhagen 🇩🇰
 
 #### A bit about me: 
-- Background in data science and ML. These days mostly:
-  - LLM apps and agents (LangGraph, Claude Code)
-  - MLOps
-  - Infrastructure as code: OpenTofu, Ansible, Hetzner
-  - GitOps and CI/CD
-  - Python
-- 🛠️ Learning in public: I self-host [gordor.dk](https://gordor.dk) on a small EU VPS, from DNS to TLS to deploy
-- 🔒 Privacy first, EU hosting where I can
+- Engineering background in Robotics and Machine Learning. These days mostly:
+  - LLM-based applications and agentic systems
+  - MLOps, observability and evals
+  - Cloud Native, GitOps and CI/CD
+  - Python, Rust and Go
+- Pragmatic. F*ck the tech. What are we trying to achieve?
+- Privacy and soverignty first. Local and EU hosting where I can
 
 #### Getting in touch
 
-- 🌐 [gordor.dk](https://gordor.dk)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kgc/)
+- [gordor.dk](https://gordor.dk)
+- [LinkedIn](https://www.linkedin.com/in/kgc/)
 
 #### Fun facts
 
