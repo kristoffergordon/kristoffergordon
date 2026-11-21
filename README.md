@@ -1,7 +1,11 @@
 ### Kristoffer Gordon
 
-- 🧑‍💻 Principal AI Engineer at [The Tech Collective](https://thetechcollective.eu) in Copenhagen 🇩🇰
-- 🔢 Background in data science and ML. These days mostly:
+Hi there! 
+
+I'm Kristoffer, and I'm currently working as a Principal AI Engineer at [The Tech Collective](https://thetechcollective.eu) in Copenhagen 🇩🇰
+
+#### A bit about me: 
+- Background in data science and ML. These days mostly:
   - LLM apps and agents (LangGraph, Claude Code)
   - MLOps
   - Infrastructure as code: OpenTofu, Ansible, Hetzner
