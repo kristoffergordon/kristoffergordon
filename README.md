@@ -8,8 +8,8 @@ I'm Kristoffer, and I'm currently working as a Principal AI Engineer at [The Tec
   - MLOps, observability and evals
   - Cloud Native, GitOps and CI/CD
   - Python, Rust and Go
-- Pragmatic. F*ck the tech. What are we trying to achieve?
-- Privacy and soverignty first. Local and EU hosting where I can
+- Pragmatic. Simpler is better. What does success look like?
+- Privacy and sovereignty first. Local and EU hosting where I can
 
 #### Getting in touch
 
