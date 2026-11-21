@@ -17,7 +17,6 @@
 
 #### Fun facts
 
-- ✈️ An ever-curious world traveller with a flair for numbers
 - ⛵ I love cooking and I love sailing. I've learned the hard way that they combine poorly.
 - 🐕 Every jacket I own has a dedicated dog-treat pocket. Come say hi, especially if you have your dog with you.
 - 🪴 30+ houseplants and counting. Better uptime than most of my side projects.
