@@ -7,7 +7,7 @@ I'm Kristoffer, and I'm currently working as a Principal AI Engineer at [The Tec
   - LLM-based applications and agentic systems
   - MLOps, observability and evals
   - Cloud Native, GitOps and CI/CD
-  - Python, Rust and Go
+  - AI strategy, roadmaps and operating models
 - Pragmatic. Simpler is better. What does success look like?
 - Privacy and sovereignty first. Local and EU hosting where I can
 
